@@ -3,17 +3,17 @@
     height: 50px;
     position: relative;
     font-family: 'My Soul', cursive;
-    font-size: 20px;
+    font-size: 125%;
 
 }
 .div1 {
   text-align: center;
-  height: 10px;
+  height: 62.5%;
   width: inherit;
   position: relative;
   opacity: 0;
   font-family: 'Dancing Script', cursive;
-  font-size: 20px;
+  font-size: 125%;
 }
 
 h1{
@@ -23,3 +23,4 @@ body{
   color: #ffa500;
   background-color: lightgreen;
 }
+
