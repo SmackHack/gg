@@ -1,0 +1,37 @@
+.heading {
+    text-align: center;
+    height: 50px;
+    position: relative;
+    font-family: 'My Soul', cursive;
+    font-size: 125%;
+
+}
+.div1 {
+  text-align: center;
+  height: 62.5%;
+  width: inherit;
+  /* position: relative; */
+  opacity: 100;
+  font-family: 'Dancing Script', cursive;
+  font-size: 125%;
+  padding-top: 3%;
+  /* left: 100%; */
+}
+.div2 {
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  opacity: 100;
+  margin-top:0;
+  position: relative;
+
+}
+
+h1{
+  color: red;
+  padding-top: 1.5%;
+}
+body{
+  color: red;
+  background-color: lightgreen;
+}
